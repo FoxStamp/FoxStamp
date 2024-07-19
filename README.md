@@ -1,18 +1,14 @@
-- 👋 Hello internet people! 
+### Hey! I'm Roark
 
-- CS student in high school
-- Somewhat amateur programmer
-- Interested in machine learning applications and data structures in code
-- I don't really like making useful/interesting projects I like making things that are fun and useless
+I'm a machine learning and data analysis enthusiast currently interning at Dr. Nicholas Preibe's lab at the University of Texas, Austin.
 
-- Languages I know:
-  - Python
-  - HTML/CSS
-  - JavaScript
+### Current Projects
+- **Neural Data Analysis**: Analyzing neural responses in monkeys to understand brain activity.
+- **Visual Perception Decoding**: Reverse engineering visual inputs from monkey brain activity data.
 
-- Languages I want to learn:
-  - C# (better than Java)
-  - EmojiCode
-  - BrainFuck
+### Skills
+- Python
+- Machine Learning
+- Data Analysis
 
-✍️(◔◡◔)
+<sub>Thanks for reading!</sub>
